@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HabeebMir
+- 👋 Hi, I’m @HabeebuddinMir
 - 👀 I’m a young energetic software developer interested in everything that even remotely touches this field.
 - 🌱 Currently I'm mastering Reactjs and regularly brushing upon my DSA skills
 - 💞️ I’m looking to collaborate on anything and everything with anybody with whom I can exchange knowledge and learn.
