@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 Hi there, I'm <strong>Habeebuddin Mir</strong>, a <strong>Software Developer</strong> 🚀 currently based in Canada. <br />
 I'm a student at Northeastern University pursuing my graduate degree in Information Systems with 1+ years of industry experience! 💡. <br />
-I passionate ❤️ about learning and teaching interesting technologies ✨. <br />
+I'm passionate ❤️ about learning and teaching interesting technologies ✨. <br />
 Currently I'm exploring Web Development and Data Science 🕸️ . <br />
 I'm open to Co-Ops/Internships in this domain. 👨🏻‍💻 <br />
 </div>
