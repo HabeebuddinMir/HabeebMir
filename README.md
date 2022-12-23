@@ -33,7 +33,7 @@ I'm open to Co-Ops/Internships in this domain. 👨🏻‍💻 <br />
 
 - 🔭 I'm on lifelong learning expeditions and love to share my learnings here on Github! Do checkout my github repositories!;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 If you find anything interesting here, connect with me here on [LinkedIn](https://www.linkedin.com/in/habeebuddin-mir/).
+- 📝 If you find anything interesting here, connect with me on [LinkedIn](https://www.linkedin.com/in/habeebuddin-mir/).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
