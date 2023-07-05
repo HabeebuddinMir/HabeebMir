@@ -1,5 +1,5 @@
 <!---
-HabeebMir/HabeebMir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HabeebuddinMir/HabeebuddinMir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -18,10 +18,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div align="center">
-Hi there, I'm <strong>Habeebuddin Mir</strong>, a <strong>Software Developer</strong> 🚀 currently based in Canada. <br />
-I'm a student at Northeastern University pursuing my graduate degree in Information Systems with 1+ years of industry experience! 💡. <br />
+I'm a student at Northeastern University pursuing my graduate degree in Information Systems with 1+ years of industry experience as a front-end web developer! 💡. <br />
 I'm passionate ❤️ about learning and teaching interesting technologies ✨. <br />
-Currently I'm exploring Web Development and Data Science 🕸️ . <br />
 I'm open to Co-Ops/Internships in this domain. 👨🏻‍💻 <br />
 </div>
 
