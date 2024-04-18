@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div align="center">
-I'm a recent graduate (open to work) with a Masters of Science in Information Systems from Northeastern University-Toronto p with 1+ years of industry experience as a front-end web developer (React.js)! 💡. <br />
+I'm a recent graduate (open to work) with a Masters of Science in Information Systems from Northeastern University-Toronto with 1+ years of industry experience as a front-end web developer (React.js)! 💡. <br />
 I'm passionate ❤️ about learning and teaching interesting technologies ✨. <br />
 </div>
 
