@@ -28,7 +28,7 @@ I'm passionate ❤️ about learning and teaching interesting technologies ✨. 
 
 **About me**
 
-- 🔭 GitHub is my playground. You will find all kinds of projects that I play around with including but not limited to:
+🔭 GitHub is my playground. You will find all kinds of projects that I play around with including but not limited to:
 - Machine Learning
 - Data Science
 - Python
@@ -40,8 +40,8 @@ I'm passionate ❤️ about learning and teaching interesting technologies ✨. 
 - Cryptocurrency (Solidity)
   ...and much more!
   
-- 💬 Ask me about anything, I am happy to help;
-- 📝 If you find anything interesting here, connect with me on [LinkedIn](https://www.linkedin.com/in/habeebuddin-mir/).
+  💬 Ask me about anything, I am happy to help;
+  📝 If you find anything interesting here, connect with me on [LinkedIn](https://www.linkedin.com/in/habeebuddin-mir/).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
