@@ -18,9 +18,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div align="center">
-I'm a student at Northeastern University pursuing my graduate degree in Information Systems with 1+ years of industry experience as a front-end web developer! 💡. <br />
+I'm a recent graduate (open to work) with a Masters of Science in Information Systems from Northeastern University-Toronto p with 1+ years of industry experience as a front-end web developer (React.js)! 💡. <br />
 I'm passionate ❤️ about learning and teaching interesting technologies ✨. <br />
-I'm open to Co-Ops/Internships in this domain. 👨🏻‍💻 <br />
 </div>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -29,7 +28,18 @@ I'm open to Co-Ops/Internships in this domain. 👨🏻‍💻 <br />
 
 **About me**
 
-- 🔭 I'm on lifelong learning expedition and love to share my findings here on Github! Do checkout my github repositories!;
+- 🔭 GitHub is my playground. You will find all kinds of projects that I play around with including but not limited to:
+- Machine Learning
+- Data Science
+- Python
+- SQL
+- C++
+- JavaScript (React.js, Next.js, Node.js, Express.js)
+- AWS
+- Game Development (Unity & Unreal)
+- Cryptocurrency (Solidity)
+  ...and much more!
+  
 - 💬 Ask me about anything, I am happy to help;
 - 📝 If you find anything interesting here, connect with me on [LinkedIn](https://www.linkedin.com/in/habeebuddin-mir/).
 
